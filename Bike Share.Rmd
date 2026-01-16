@@ -1,5 +1,5 @@
 ---
-title: "Bike-Share Case Study"
+title: "Cyclistic Case Study"
 author: "Hadeer"
 date: "2026-01-13"
 output: html_document
@@ -238,3 +238,4 @@ Since casual riders are more active on weekends and take longer rides, Cyclistic
 Marketing messages should emphasize how frequent or long casual rides can become more cost-effective with an annual membership. Highlighting potential savings can directly address the financial motivations of casual riders.
 * **Use Digital Media to Reach Casual Riders During Peak Leisure Hours**
 Cyclistic should leverage social media and in-app notifications during weekends and afternoon hours, when casual riders are most active. Personalized messaging during these periods can increase engagement and improve conversion rates.
+
